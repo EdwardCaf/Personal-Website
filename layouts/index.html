@@ -1,0 +1,25 @@
+{{ partial "header.html" . -}}
+
+
+<article class="container">
+    <article class="grid-temp" >
+      <h2 class="item1">About Me</h2>
+      <img src="img/profile.webp" class="item3" id="main-img"alt="Picture of me">
+        <p class="item2">This is my personal website. I plan to use this for all sorts of things I'm interested in and sharing them with the world.</p>
+        <ul class="item4"><h3>My hobbies include</h3> 
+          <li>Bitcoin</li>
+          <li>Astrophotography</li>
+          <li>Programming</li>
+          <li>Playing Guitar</li>
+          <li>Economics</li>
+        </ul>
+    </article><br><br>
+  <h2>Articles</h2> 
+{{ .Content -}}
+<ul class="list">
+{{- range.Pages }}
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> &ndash; <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006 Jan 02" }}</time></li>
+{{ end -}}
+</ul>
+</article>
+{{- partial "footer.html" . }}
