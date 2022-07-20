@@ -1,5 +1,4 @@
 ---
 title: "Poo"
 date: 2022-07-18T18:58:12-04:00
-draft: true
 ---
