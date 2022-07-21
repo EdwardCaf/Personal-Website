@@ -43,6 +43,16 @@ h2, h3 ,h4, h5, h6 {
 	border: 2px solid #222;
 	border-radius: 15px;
 }
+
+.list-item{
+	text-align: center;
+	background-color: #222;
+	max-width: 40%;
+	border-radius: 25px;
+	padding: 1em;
+	margin: 1em auto;
+}
+
 /* For TAGLIST.HTML */
 .taglist {
 	text-align: center ;
@@ -50,6 +60,7 @@ h2, h3 ,h4, h5, h6 {
 }
 .list {
 		list-style-type: none;
+		padding: 0px;
 }
 
 .article {
@@ -82,13 +93,17 @@ h2, h3 ,h4, h5, h6 {
 
 /* Link Styling */
 
-li a{
+a {
+	text-decoration: none;
+}
+
+a li{
 color: orange;
 font-size: 20px;
 text-decoration: none;
 }
 
-li a:visited{
+a li:visited{
 	color: orange;
 }
 
