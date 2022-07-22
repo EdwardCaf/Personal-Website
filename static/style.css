@@ -190,8 +190,10 @@ header h1 a {
 #rss-img{
 	max-height:1.5em; 
 	border-radius: 8px; 
+	border: 0px;
 	padding: 0px;
 	max-width: 10%;
+	box-shadow: 0px 0px 5px #333;
 }
 
 @media screen and (max-width: 580px) {
