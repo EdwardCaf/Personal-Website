@@ -187,6 +187,14 @@ header h1 a {
 	box-shadow: 1px 1px 14px  #222;
 }
 
+#rss-img{
+	max-height:1.5em; 
+	border: 1px solid black;
+	border-radius: 8px; 
+	padding: 0px;
+	max-width: 100%;
+}
+
 @media screen and (max-width: 580px) {
 	body {
 		font-size: 18px;;
