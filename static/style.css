@@ -164,9 +164,8 @@ header h1 a {
 	text-align: left ;
 	color: orange;
 	padding: 0.6em;
-	background-color: #222;
-	box-shadow: 1px 1px 12px  #222;
-	border: 1px solid #111;
+	background-color: #2e2e2e;
+	box-shadow: 0px 0px 9px  #222;
 	border-radius: 15px;
 }
 
@@ -175,9 +174,8 @@ header h1 a {
 	text-align: right ;
 	color: orange;
 	padding: 0.6em;
-	background-color: #222;
-	box-shadow: 1px 1px 12px  #222;
-	border: 1px solid #111;
+	background-color: #2e2e2e;
+	box-shadow: 0px 0px 9px  #222;
 	border-radius: 15px;
 }
 
@@ -186,7 +184,7 @@ header h1 a {
 }
 
 #nextart:hover, #prevart:hover{
-	box-shadow: 1px 1px 12px  #111;
+	box-shadow: 1px 1px 14px  #222;
 }
 
 @media screen and (max-width: 580px) {
