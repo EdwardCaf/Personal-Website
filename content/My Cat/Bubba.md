@@ -1,6 +1,7 @@
 ---
 title: "Bubba"
 date: 2022-07-20T21:11:34-04:00
+tags: ["cat", "personal"]
 ---
 
 # Bubba

@@ -10,7 +10,7 @@
           <li>Bitcoin</li>
           <li>Astrophotography</li>
           <li>Programming</li>
-          <li>Playing Guitar</li>
+          <li>Guitar</li>
           <li>Economics</li>
         </ul>
     </article><br><br>
@@ -21,5 +21,30 @@
 	<a href="{{ .RelPermalink }}"><li class="list-item">{{ .Title }} &ndash; <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 02 2006" }}</time></li></a>
 {{ end -}}
 </ul>
+<br><br>
+<h2>Articles by tag</h2>
+<br>
+<div class="tagcloud taglist">
+    {{ if ne (len $.Site.Taxonomies.tags) 0 }}
+      {{ $largestFontSize := 1.4 }}
+      {{ $smallestFontSize := 1.0 }}
+      {{ $fontSpread := sub $largestFontSize $smallestFontSize }}
+      {{ $max := add (len (index $.Site.Taxonomies.tags.ByCount 0).Pages) 1 }}
+      {{ $min := len (index $.Site.Taxonomies.tags.ByCount.Reverse 0).Pages }}
+      {{ $spread := sub $max $min }}
+      {{ $fontStep := div $fontSpread $spread }}
+        {{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
+          {{ $tagCount := len $taxonomy.Pages }}
+          {{ $currentFontSize := (add $smallestFontSize (mul (sub $tagCount $min) $fontStep) ) }}
+          {{ $weigth := div (sub (math.Log $tagCount) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
+          {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weigth)) }}
+            <a href='{{ "/tags/" | relURL }}{{ $name | urlize }}' 
+            class="tagcloud-item">
+              {{ $name }}<sup>{{ $tagCount }}</sup>
+            </a>
+        {{ end }}
+    {{ end }}
+</div>
+<br><br>
 </article>
 {{- partial "footer.html" . }}
