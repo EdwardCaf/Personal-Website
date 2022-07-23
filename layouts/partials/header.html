@@ -13,8 +13,22 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index, follow">
 	<meta charset="utf-8">
+	<style>
+  body {
+    visibility: hidden;
+    opacity: 0;
+  }
+	</style>
 </head>
 <body>
+	<noscript>
+  <style>
+    body {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</noscript>
 	<header class="home-link"><h1 id="tag_{{ .Title }}"><a href="{{ .Site.BaseURL }}">{{ .Title }}</a><br><br></h1></header>
 {{- if .Site.Menus.main }}
 {{ partial "nav.html" . }}
