@@ -1,6 +1,6 @@
 body {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	font-size: 1.3em;
+	font-size: 1.2em;
 	background: rgb(0,118,224);
 	background: linear-gradient(172deg, rgb(0, 75, 139) 25%, rgb(66, 173, 255) 80%);
 	background-attachment:fixed;
@@ -222,7 +222,8 @@ header h1 a {
 
 @media screen and (max-width: 580px) {
 	body {
-		font-size: 18px;;
+		font-size: 16px;
+		text-align: center;
 	}
 	.grid-temp{
 		display:grid;
