@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}">
 <head>
-	<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+	<title>{{ if not .IsHome }}{{ singularize .Title | title }} | {{ end }}{{ .Site.Title }}</title>
 	<link rel="canonical" href="{{ .Site.BaseURL }}">
 	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
 	<link rel='stylesheet' type='text/css' href='/style.css'>
@@ -29,7 +29,7 @@
     }
   </style>
 </noscript>
-	<header class="home-link"><h1 id="tag_{{ .Title }}"><a href="{{ .Site.BaseURL }}">{{ .Title }}</a><br><br></h1></header>
+	<header class="home-link"><h1 id="tag_{{ .Title }}"><a href="{{ .Site.BaseURL }}">{{ singularize .Title }}</a><br><br></h1></header>
 {{- if .Site.Menus.main }}
 {{ partial "nav.html" . }}
 {{ end }}
