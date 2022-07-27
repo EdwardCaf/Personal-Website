@@ -2,7 +2,7 @@ body {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 1.2em;
 	background: rgb(0,118,224);
-	background: linear-gradient(172deg, rgb(0, 75, 139) 25%, rgb(66, 173, 255) 80%);
+	background: linear-gradient(172deg, rgb(0, 75, 139) 25%, rgb(66, 173, 255) 85%);
 	background-attachment:fixed;
 	height:100%;
 	color: #ccc ;
