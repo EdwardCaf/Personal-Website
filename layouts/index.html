@@ -14,15 +14,18 @@
           <li>Economics</li>
         </ul>
     </article><br><br>
-  <h2 class="index-header">Recent Articles</h2> 
+    <section>
+      <h3 class="bookmarks"><a href="/bookmarks">Bookmarked Links</a></h3>
+    </section>
+  <h2>Recent Articles</h2> 
 {{ .Content -}}
 <ul class="list">
-{{- range.Pages }}
+{{ range first 3 ( where .Site.Pages "Type" "blog" )}}
 	<a href="{{ .RelPermalink }}"><li class="list-item">{{ singularize .Title }} &ndash; <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 02 2006" }}</time></li></a>
 {{ end -}}
 </ul>
 <br><br>
-<h2 class="index-header">Articles by tag</h2>
+<h2>Articles by tag</h2>
 <br>
 <div class="tagcloud taglist">
     {{ if ne (len $.Site.Taxonomies.tags) 0 }}
