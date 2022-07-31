@@ -23,4 +23,4 @@ It's forced me to come to terms with what I want my own legacy to be and that of
 
 He will be named Edward William Cafarella. Edward, after me, my father, grandfather, and his grandfather. In fact, the name of my ancestor that came to America in the mid to late 1800s was named Edward French. It goes wihtout saying the name has a special place in my family and I would like to continue its' legacy as long as possible. His middle name will be after Bria's grandfather, making our son's name something unique while still a homage to our older relatives.
 
-We are looking forward to meeting you!
+We are looking forward to meeting you Edward!
