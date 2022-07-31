@@ -151,7 +151,10 @@ h2, h3 ,h4, h5, h6 {
 /* Grid Styling */
 
 .item1 { grid-area: header; }
-.item2 { grid-area: description; }
+.item2 { 
+	grid-area: description;
+	padding: 2em;		
+}
 .item3 { grid-area: picture; }
 .item4 { 
 	grid-area: list;
