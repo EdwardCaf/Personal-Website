@@ -129,10 +129,11 @@ h2, h3 ,h4, h5, h6 {
 }
 
 .taglist a {
+	display: inline-block;
 	color: orange;
 	padding:0.5em;
 	background-color: #262626;
-	margin: 0.2em ;
+	margin: 0.3em ;
 	border-radius: 10px;
 	box-shadow: 1px 1px 12px  #222;
 }
@@ -177,10 +178,6 @@ h2, h3 ,h4, h5, h6 {
 
 a {
 	text-decoration: none;
-	color: #4af;
-}
-
-a:visited {
 	color: #4af;
 }
 
@@ -290,5 +287,11 @@ header h1 a {
 	}
 	.list-item{
 		max-width: 80%;
+	}
+	.taglist a{
+		margin: 0.7em;
+	}
+	a #nextart,a #prevart {
+	margin-bottom: 2em;
 	}
 }

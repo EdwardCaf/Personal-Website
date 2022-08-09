@@ -2,6 +2,7 @@
 title: "Benefits of a Hard Money Standard"
 date: 2022-08-03T16:50:16-04:00
 type: "blog"
+tags: ["bitcoin", "economics"]
 ---
 
 ### What is hard money?
