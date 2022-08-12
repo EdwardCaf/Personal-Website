@@ -34,3 +34,7 @@ Go to my [github configs](https://github.com/edwardcaf/configs) to see my config
 For the last month or so, I've been running Endeavour OS on my desktop pc and have had an overall amazing experience. My only worry was having an NVIDIA card would make my install buggy but I've been pleasantly surprised by Endeavour OS. In the future, I will probably switch to an AMD.
 
 I don't see myself going back to Windows any time soon as I have literally no need to boot up into it for anything. I'm able to have a complete workflow in Endeavour. I will keep my mac on standby for the occasional niche use case, but mostly for the macbook's elegant hardware.
+
+### My Macbook setup
+
+I currently am using my Macbook (M1 pro 14") w/Parallels to run Arch linux in a virtual environment as well as my Desktop. I followed this [tutorial](/https://forum.endeavouros.com/t/guide-easier-way-to-install-endeavouros-arm-on-a-mac-m1-parallels-vm/24794) through the endeavour OS install process.
