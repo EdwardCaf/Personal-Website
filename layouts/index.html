@@ -2,7 +2,7 @@
 
 <article class="container">
     <article class="grid-temp" >
-      <h2 class="item1">About Me</h2>
+      <h2 class="item1" id="header">About Me</h2>
       <figure  class="item3"><img src="img/profile.webp"id="main-img" alt="Picture of me"></figure>
         <p class="item2">My name is Edward and this is my personal website. I live in New Hampshire, have a cat, and I'm married to a wonderful woman. I have a day job as a cook at the local hospital, and I have all sorts of hobbies in my free time. I plan to write about all of that and other things I'm interested in and archive it here!</p>
         <ul class="item4"><h3>My hobbies include</h3> 
@@ -15,9 +15,9 @@
         </ul>
     </article><br><br>
     <section>
-      <h3 class="bookmarks"><a href="/bookmarks">Bookmarked Links</a></h3>
+      <h3 class="bookmarks"><a href="/bookmarks" id="header">Bookmarked Links</a></h3>
     </section>
-  <h2>Recent Articles</h2> 
+  <h2 class="header">Recent Articles</h2> 
 {{ .Content -}}
 <ul class="list">
 {{ range first 3 ( where .Site.Pages "Type" "blog" )}}
@@ -25,7 +25,7 @@
 {{ end -}}
 </ul>
 <br><br>
-<h2>Articles by tag</h2>
+<h2 class="header">Articles by tag</h2>
 <br>
 <div class="tagcloud taglist">
     {{ if ne (len $.Site.Taxonomies.tags) 0 }}

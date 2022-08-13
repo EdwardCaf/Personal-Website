@@ -5,7 +5,7 @@ body {
 	background: linear-gradient(172deg, rgb(0, 75, 139) 25%, rgb(66, 173, 255) 85%);
 	background-attachment:fixed;
 	height:100%;
-	color: #ccc ;
+	color: #eee ;
 }
 /* Alternate bg-color
 background: rgb(29,30,32);
@@ -19,8 +19,9 @@ main {
 	padding: 1em;
 	background: rgb(68, 68, 75);
 	box-shadow: 0px 0px 40px #222;
-	color: rgb(247, 238, 222);
+	color: #eee;
 	border-radius: 15px;
+	text-align: left;
 }
 
 .container img {
@@ -57,13 +58,15 @@ footer {
 
 p {
 	padding: 1em;
-	line-height: 2em;
+	line-height: 1.7em;
 }
 
-h2, h3 ,h4, h5, h6 {
-	text-align: center;
-	color: orange;
+h1,h2,h3,h4,h5,h6 {
 	padding: 1em;
+}
+
+.header {
+	text-align: center;
 }
 
 .list-item{
@@ -78,6 +81,10 @@ h2, h3 ,h4, h5, h6 {
 
 .list-item:hover{
 	box-shadow: 1px 1px 15px  #111;
+}
+
+.bookmarks {
+	text-align: center;
 }
 
 .bookmarks a{
@@ -271,7 +278,7 @@ header h1 a {
 @media screen and (max-width: 580px) {
 	body {
 		font-size: 16px;
-		text-align: center;
+		text-align: left;
 	}
 	.container img {
 	max-height: 500px;
