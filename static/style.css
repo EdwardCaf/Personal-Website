@@ -83,11 +83,11 @@ h1,h2,h3,h4,h5,h6 {
 	box-shadow: 1px 1px 15px  #111;
 }
 
-.bookmarks {
+.links-page {
 	text-align: center;
 }
 
-.bookmarks a{
+.links-page a{
 	color: orange;
 	padding: 0.7em;
 	background-color: #222;
@@ -95,11 +95,11 @@ h1,h2,h3,h4,h5,h6 {
 	box-shadow: 1px 1px 12px  #222;
 }
 
-.bookmarks a:hover{
+.links-page a:hover{
 	box-shadow: 1px 1px 15px  #111;
 }
 
-.bookmarks a:visited{
+.links-page a:visited{
 	color: orange;
 }
 
