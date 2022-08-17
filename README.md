@@ -1,6 +1,8 @@
 # My Personal Website
 
-This website is somehwat of a blog for anything I would like to post about my personal life or about things I'm interested in. I'll also use it to bookmark links to topics I'm interested in.
+This website is somewhat of a blog for anything I would like to post about my personal life or about things I'm interested in. I'll also use it to bookmark links to topics I'm interested in.
+
+### Check it out [here](/https://edwardcafarella.com)
 
 ### How it's built
 
@@ -8,5 +10,3 @@ This website is somehwat of a blog for anything I would like to post about my pe
 - HTML
 - CSS
 - Netlify (Hosting)
-
-Check it out [here](/https://edwardcafarella.com)
