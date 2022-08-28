@@ -37,4 +37,4 @@ I don't see myself going back to Windows any time soon as I have literally no ne
 
 ### My Macbook setup
 
-I currently am using my Macbook (M1 pro 14") w/Parallels to run Arch linux in a virtual environment as well as my Desktop. I followed this [tutorial](/https://forum.endeavouros.com/t/guide-easier-way-to-install-endeavouros-arm-on-a-mac-m1-parallels-vm/24794) through the endeavour OS install process.
+I currently am using my Macbook (M1 pro 14") w/Parallels to run Arch linux in a virtual environment as well as my Desktop. I followed this [tutorial](https://forum.endeavouros.com/t/guide-easier-way-to-install-endeavouros-arm-on-a-mac-m1-parallels-vm/24794) through the endeavour OS install process.
