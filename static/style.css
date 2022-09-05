@@ -1,7 +1,7 @@
 body {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	background: rgb(54, 54, 54);
-	background: linear-gradient(172deg, rgb(0, 75, 139) 25%, rgb(66, 173, 255) 85%);
+	background: linear-gradient(172deg, rgb(48, 48, 48) 25%, rgb(67, 67, 67) 85%);
 	background-attachment:fixed;
 	height:100%;
 	color: #eee ;
@@ -44,7 +44,7 @@ figure.index-img img{
 
 .container {
 	padding: 1em;
-	background: rgb(255, 243, 230);
+	background: rgb(239, 226, 214);
 	box-shadow: 0px 0px 40px #222;
 	color: #111;
 	border-radius: 15px;
