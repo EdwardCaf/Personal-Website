@@ -6,9 +6,11 @@ body {
 	height:100%;
 	color: #eee ;
 }
+
 /* Alternate bg-color
 background: rgb(29,30,32);
 */
+
 main {
 	max-width: 1080px ;
 	margin: auto ;
