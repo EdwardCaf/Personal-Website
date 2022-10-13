@@ -32,4 +32,6 @@ Most of what I used is just my old computer. Old computers would work for most a
 
 This is just a brief overview of what to expect when starting your Bitcoin node journey.
 
+**[Open a channel with my node](https://1ml.com/node/03c943b1c315929551a60e9ff6dbb0ce527f3f87829fcfb06f219ddc546c3ef8e9)**
+
 If anyone is interested in doing it themselves, I would be more than happy to share my expertise on the matter!
