@@ -14,9 +14,6 @@
           <li>Economics</li>
         </ul>
     </article><br><br>
-    <section>
-      <h3 class="links-page"><a href="/bookmarks" id="header">Bookmarked Links</a></h3>
-    </section>
   <h2 class="header">Recent Articles</h2> 
 {{ .Content -}}
 <ul class="list">
@@ -25,6 +22,9 @@
 {{ end -}}
 </ul>
 <br><br>
+<section>
+  <h3 class="links-page"><a href="/catalog" id="header">All of my Posts</a></h3>
+</section>
 <h2 class="header">Articles by tag</h2>
 <br>
 <div class="tagcloud taglist">
@@ -47,10 +47,10 @@
             </a>
         {{ end }}
     {{ end }}
-    <section>
-      <h3 class="links-page"><a href="/catalog" id="header">Catalog of Posts</a></h3>
-    </section>
 </div>
 <br><br>
+<section>
+  <h3 class="links-page"><a href="/bookmarks" id="header">Bookmarked Links</a></h3>
+</section>
 </article>
 {{- partial "footer.html" . }}
