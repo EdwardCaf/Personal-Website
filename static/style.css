@@ -111,6 +111,7 @@ figure.index-img img{
 
 .bookmark-list li {
 	margin: 1em;
+	list-style-type: none;
 }
 
 .bookmark-list a{
