@@ -2,7 +2,7 @@
 title: "3DS Homebrew"
 date: 2022-11-19T19:42:02-05:00
 type: "blog"
-tags: ["Tech"]
+tags: ["tech"]
 ---
 
 ## Why I rooted my 3DS
