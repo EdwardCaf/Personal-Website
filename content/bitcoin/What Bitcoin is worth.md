@@ -13,17 +13,17 @@ By dividing the total bitcoin that will ever exist by the current total human po
 
 Bitcoins can be divided into smaller units called “sats” or “satoshis”. Each bitcoin is equal to 100 million sats. A satoshi is the smallest denomination of bitcoin. 
 
-Each person, if equally distributed, would have ~300,000 sats or 0.003 bitcoin. This number is assuming a 7 billion human population and a fully diluted 21 million supply. It’s a rough guess because not *every* person will own any bitcoin, at least for a while, and the total amount of bitcoins in circulation will probably only ever actually be 17 million. Lost coins and Satoshi’s coins are considered gone forever.
+Each person, if equally distributed, would have ~300,000 sats or 0.003 bitcoin. This number is assuming a 7 billion human population and a fully diluted 21 million supply. It’s a rough guess because not **every** person will own any bitcoin, at least for a while, and the total amount of bitcoins in circulation will probably only ever actually be 17 million. Lost coins and Satoshi’s coins are considered gone forever.
 
 ### Compressing wealth into sats
 
 First, 300,000 sats is roughly equivalent in today’s price to $60. 
 
-Second, keep in my mind, this is *all the bitcoin that each person could ever possibly hold*. This simple fact might be hard to wrap your head around, but new bitcoins can’t be created to account for more wealth. 
+Second, keep in my mind, this is **all the bitcoin that each person could ever possibly hold**. This simple fact might be hard to wrap your head around, but new bitcoins can’t be created to account for more wealth. 
 
-This means that *ALL* the assets, lifetime income, savings, investments, and property *over the course of forever for every individual that is alive and will ever be alive* will have to be accounted for in this 300,000 sats. Definitely not a perfectly accurate representation because what people own varies across the world.  But, this also doesn’t account for publicly owned property, land, utilities, infrastructure, corporations, governments, factories, and various other types of capital. 
+This means that __*ALL*__ the assets, lifetime income, savings, investments, and property **over the course of forever for every individual that is alive and will ever be alive** will have to be accounted for in this 300,000 sats. Definitely not a perfectly accurate representation because what people own varies across the world.  But, this also doesn’t account for publicly owned property, land, utilities, infrastructure, corporations, governments, factories, and various other types of capital. 
 
-What this amounts to is the fact that *ANY* amount of bitcoin is life-changing over a long-enough time-horizon, and the more you own, the shorter that time-horizon is for it to be life-changing. 
+What this amounts to is the fact that __*ANY*__ amount of bitcoin is life-changing over a long-enough time-horizon, and the more you own, the shorter that time-horizon is for it to be life-changing. 
 
 ### Current Day
 
