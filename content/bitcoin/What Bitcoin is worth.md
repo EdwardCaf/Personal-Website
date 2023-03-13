@@ -21,7 +21,7 @@ First, 300,000 sats is roughly equivalent in today’s price to $60.
 
 Second, keep in my mind, this is **all the bitcoin that each person could ever possibly hold**. This simple fact might be hard to wrap your head around, but new bitcoins can’t be created to account for more wealth. 
 
-This means that __*ALL*__ the assets, lifetime income, savings, investments, and property **over the course of forever for every individual that is alive and will ever be alive** will have to be accounted for in this 300,000 sats. Definitely not a perfectly accurate representation because what people own varies across the world.  But, this also doesn’t account for publicly owned property, land, utilities, infrastructure, corporations, governments, factories, and various other types of capital. 
+This means that __*ALL*__ the assets, lifetime income, savings, investments, and property **over the course of forever** and apply this to **every individual that is alive and will ever be alive**. All of this value to be accounted for in this 300,000 sats and lower that amount with an increasing population. Definitely not a perfectly accurate representation because what people own varies across the world.  But, this also doesn’t account for publicly owned property, land, utilities, infrastructure, corporations, governments, factories, and various other types of capital. 
 
 What this amounts to is the fact that __*ANY*__ amount of bitcoin is life-changing over a long-enough time-horizon, and the more you own, the shorter that time-horizon is for it to be life-changing. 
 
