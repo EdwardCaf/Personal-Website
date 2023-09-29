@@ -1,3 +1,10 @@
+---
+title: "Is Art a Waste of Time?"
+date: 2023-09-29T17:48:39-04:00
+type: "blog"
+tags: ["philosophy", "personal"]
+---
+
 # Is Art a Waste of Time?
 
 For something to be a work of art, it should ideally serve no utility. That is to say, we don’t consume art for a purpose outside of experiencing it. We don’t listen to songs to get something extrinsic to the experience, nor look at a painting or read a book to accomplish some sort of task. This can make art feel like a waste of time in the moment, and yet we all consume various forms of art on a daily basis. Music, movies, literature, paintings, and architecture surround us and leave their impression on us. Most modern people have it all wrong.
