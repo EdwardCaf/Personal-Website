@@ -4,7 +4,7 @@ date: 2023-10-25T22:04:17-04:00
 type: "blog"
 tags: ["philosophy"]
 ---
-# Number Theory
+## Numbers
 
 I have to write about my thoughts recently on numbers. As a disclaimer, I have very little understanding of what I’m about to discuss, and am writing this as an outlet for my thoughts and interests.
 
