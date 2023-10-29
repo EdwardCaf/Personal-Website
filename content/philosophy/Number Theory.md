@@ -30,6 +30,14 @@ One example I can think of would be to hold a branch in my hand. This person wil
 
 Given that the individual has the same rational mind as me, they would most likely start to comprehend what is being said here. Roman numerals, interestingly, are easier to demonstrate this concept. The Arabic numbers (0-9), and the base 10 system, are more common to us nowadays. Roman numerals are represented as I, II, III, IV, V.  The concept of monads and adding 1 to the previous number is evident here with the numbers 1-3. Much more can be said, but through this process, we can hope to relay more information that doesn’t require any prior knowledge that this individual is dependent on having.
 
+## Zero
+
+The number 0 was discovered/invented. 0 is more of a concept than a number however, due to the way it behaves with other numbers. Adding and subtracting other numbers by 0 does nothing. Multiplying any number by it results in 0. Dividing by 0 is mathematically impossible and dividing 0 by any number is still 0. Regardless of these problems, using 0 helps mathematicians, especially when it comes to calculus and the concept of limits. 
+
+People in Ancient Greece had complex understanding of math and figures like Pythagoras, Euclid, and others, made notable contributions. Nonetheless, Ancient Greece refused to accept that 0 could be real, due to various cultural norms and the ways they viewed the natural world. My instinctual reaction and understanding is that I think I agree with this perspective. I understand that many modern tools and measurements would not be possible without a concept of 0, such as calculus and computers. I still think we should be careful when assuming it is “real”. 
+
+Zeno’s paradox, when attempted to be solved through purely mathematics is impossible. The concept of 0 and limits allows for an explanation of the problem. I recommend reading more in-depth explanations of this topic. I, for one, am not satisfied with this answer. If we can’t solve this with basic math, then fabricating formulas or rules to explain what doesn’t work. Like I said before, I understand the practical application of these concepts, and how they **actually** help improve our understanding of the physical world. It just doesn’t sit right with me and I think it might be harming our understanding of math and numbers by assuming that because it **works** that it is **correct**.
+
 ## Our Future Understanding of Numbers
 
 My personal theory is that, if we are to develop into a more complex society and hopefully understand the universe, we might need to rely on numbers. Numbers, seem to be fundamentally tied to the universe itself, or at least the way we, as humans, understand it. Are there possibly secrets hidden in numbers that can explain things we already know about reality, but in a more elegant and simple manner? 
