@@ -2,7 +2,7 @@
 title: "Bitcoin Node"
 date: 2022-10-10T21:37:38-04:00
 type: "blog"
-tags: ["bitcoin", "linux"]
+tags: ["bitcoin", "tech"]
 ---
 
 ## Why run a Bitcoin node?

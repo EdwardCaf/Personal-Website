@@ -2,7 +2,7 @@
 title: "Linux Desktop"
 date: 2022-08-08T17:54:08-04:00
 type: "blog"
-tags: ["linux", "programming"]
+tags: ["linux"]
 ---
 
 ## Hardware I use
